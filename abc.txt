@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5E6E-899E
+
+ Directory of C:\Users\Swaroop\Desktop\JavaProject
+
+01-10-2018  15:10    <DIR>          .
+01-10-2018  15:10    <DIR>          ..
+01-10-2018  15:10                 0 abc.txt
+01-10-2018  14:38               662 Hello.class
+01-10-2018  14:31               139 Hello.java
+               3 File(s)            801 bytes
+               2 Dir(s)  390,074,114,048 bytes free
